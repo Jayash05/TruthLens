@@ -8,7 +8,7 @@ By combining **Large Language Models (LLMs)**, **Vision-Language Models (VLMs)**
 
 ## 📂 Dataset 
 This project utilizes a **Dynamic Event-Driven Dataset** strategy:
-* **Live Ingestion:** Real-time fetching via NewsData.io API.
+* **Live Ingestion:** Real-time fetching via NewsData.io API.[link:https://newsdata.io]
 * **Clustering:** Articles are grouped using `SentenceTransformer` cosine similarity.
 * **Sample Data:** A curated sample of articles used for thesis case studies is available in the `sample_data/` folder.
 
