@@ -32,13 +32,14 @@ The TruthLens framework provides a transparent **Forensic Audit** for every news
 *This matrix validates the statistical significance of our features, confirming Factual Consensus as the primary anchor for truth.*
 
 ### Case Study Analysis: Cluster 6 (Strait of Hormuz) 
+![Program_output on cluster 6](assets/audit.png)
 | Source | Veracity Score | Verdict | Key Reason |
 | :--- | :--- | :--- | :--- |
 | The Hindu Business Line | 0.718 | **Credible** | 29 Verified Consensus Matches |
 | Economic Times | 0.552 | **Questionable** | 0 Consensus Matches (Outlier) |
 
 ### Forensic Performance & Contextual Baselines 
-![Forensic Performance](assets/forensic_performance_charts.png)
+![Forensic Performance](assets/vlm_veracity.png)
 *Left: Context-Aware Baseline in action. Right: Image Alignment vs. Veracity comparison.*
 
 ---
