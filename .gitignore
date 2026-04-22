@@ -1,0 +1,13 @@
+# Credentials
+.env
+api_keys.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Colab/Notebooks
+.ipynb_checkpoints
